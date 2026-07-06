@@ -1,6 +1,6 @@
 # Life Heatmap by KitaKita
 
-A passive,s visual history of your terminal life — like GitHub's
+A passive visual history of your terminal life — like GitHub's
 contribution graph, but for your own command line.
 
 Everything is in a single JSON
